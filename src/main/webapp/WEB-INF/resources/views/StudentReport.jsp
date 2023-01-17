@@ -157,10 +157,10 @@
 <body>
 	<center><h1>Student CRUD Using AJAX </h1></center>
 
-	<!--  <button id="gettime">Get Time</button>
+	<!-- <button id="gettime">Get Time</button>
 	
 	<h2 id="printtime"></h2>
-  -->
+  --> 
   
   
 	<div class="container mt-3">

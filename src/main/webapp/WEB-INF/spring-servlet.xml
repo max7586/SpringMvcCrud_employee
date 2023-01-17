@@ -72,7 +72,7 @@
 		<property name="annotatedClasses">
 			<list>
 					<value>com.demo.model.Employee</value>
-					<!-- <value>com.demo.model.Student</value> -->
+					<value>com.demo.model.Student</value>
 			</list>
 		</property>
 
